@@ -1,5 +1,5 @@
 # PRNS-php-ffi
-php ffi binding to PRNS (Random Access Pseudo Random Generator)
+php8 ffi binding to PRNS (Random Access Pseudo Random Generator)
 
 
 ## PRNS
